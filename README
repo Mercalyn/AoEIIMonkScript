@@ -1,0 +1,7 @@
+In order to use this here script:
+
+You should be running 1080p AoE II HD
+
+create a monk group on 2, 3 or both by ctrl+2 or ctrl+3.
+
+you MUST use the 2 or 3 key to select the formation otherwise the script won't know which formation you are selecting. The script will take care of the rest and select a new monk for you to convert with. Press Alt to cycle through each monk in a formation. It resets automatically.
